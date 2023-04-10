@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Avance 4 - UPC</h2>
+<p>Hola Mundo</p>
+<button onclick="mostrarParesDeN()"> boton en HTML</button>
+<script>
+function mostrarParesDeN(){
+    var numero = 16
+    for (var i = 1; i <= numero; i++){
+       if(i% 2 == 0){
+            alert(i)
+       }else{
+         //No hacer nada
+       }
+    }
+}
+
+function mostrarParesDeN_WHILE(){
+    var numero = 16
+    var i = 1
+    while(i <= numero){
+        alert(i)
+        i = i + 1
+    }
+    alert("FIN")
+} 
+</script>
+</body>
+</html>
