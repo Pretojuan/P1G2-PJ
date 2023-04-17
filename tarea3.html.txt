@@ -1,0 +1,85 @@
+video;2
+
+var edad = 19;
+edad++;
+
+var punto_flotantes = 12.5;
+
+
+/*
+Operadores aritmeticos
+Division = /
+Multiplicacion = *
+Suma = +
+Resta = -
+Modulo = %
+*/
+
+var resultado_suma = edad % 2; + punto_flotantes;
+
+console.log(resultado_suma);
+
+console.log(es_par(3));
+
+
+
+function es_par(numero){
+if(numero % 2 == 0){
+  }
+  return false;
+}
+console.log(math.sqrt(4);
+
+video;3
+
+
+//var cadera = "Hola "+ nombre;
+
+//var resultado =
+cadena.indexOf("CodigoFacilito");
+
+//console.log(resultado);
+/*
+if(nombre.indexOf("Uriel") != -1){
+console.log(resultado);
+/*
+}else{
+console.log("No eres el tutor del
+curso");
+}
+*/
+//console.log(nombre.charAt(1);)
+
+nombre = nombre.replace("U","A"));
+
+//console.log(nombre);
+
+
+//console.log(nombre.shice(0,2));
+
+console.log(nombre.toUpperCase());
+
+console.log(nombre.toUpperCase());
+
+video;4
+
+var numero numero_uno = 30;
+
+var numero_Dos = "30";
+
+if(numero_uno === numero_dos){
+  console.log("Devuelve falso");
+}else if(false){
+  
+}
+else if(false){
+  
+}
+else{
+  console.log(":p");
+}
+
+//bool -> true / false
+/* Operaciones logicos */
+// > Mayor que
+
