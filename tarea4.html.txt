@@ -1,0 +1,75 @@
+video;5
+var contador = 0;
+/*
+while(true){
+contador++;
+
+console.log(contador);
+if(contador >= 10){
+break;
+}
+}
+*/
+
+do{
+contador++;
+
+console.log(contador);
+if(contador >=10){
+break;
+}
+}while(false);
+
+// break
+//continue
+
+//asdasd
+
+
+
+
+video;6
+asd
+for(inicializacion;condicion;incremento){
+  
+}
+for(;;){
+  
+}
+for(var i = 0;i<10;i++){
+  console.log(i),
+}
+var arreglo = ["Hola","mundo"];
+for8var i = 0;i<arreglo.loength;i++){
+  console.log(arreglo[i]);
+}
+
+
+
+
+video;7
+var number = {};
+
+//console.log(typeof number);
+var hola = null;
+//undefined
+
+console.log(undefined),
+  
+  if(typeof una_variable =="undefined"){
+    console.log(Esta variable no esta
+  declarada");
+  }
+
+
+var number = {};
+
+//console.log(typeof number);
+var hola = null;
+//undefined
+
+console.log(undefined),
+console.log(undefined);
+if(hola== null){
+  hola = "hola";
+}
